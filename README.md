@@ -1,9 +1,9 @@
 # ProjectThree
-Team Name: [Add your team name here]
+Team Name: GE
 
-Project Name: [Add you project name here]
+Project Name: Flight Finder
 
-Proposal Link: [Add a link to your google doc with your project proposal here]
+Proposal Link: https://docs.google.com/document/d/1SSA8uO9mmpDaEF3xMlIzwNrzC7P9dqPIiLZUm5b1JIU/edit?usp=sharing
 
 ## Short Description:
 [Replace this with your project description copied from your "brief project description" section in the proposal google doc]
@@ -12,3 +12,4 @@ Under **Signatures:**, every team member signs this proposal by adding their nam
 John Doe, Data Wrangler 1, johnsGithubUsername
 
 ## Signatures:
+Aaron Dudor, Front End Developer, adudor
