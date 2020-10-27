@@ -13,3 +13,5 @@ John Doe, Data Wrangler 1, johnsGithubUsername
 
 ## Signatures:
 Aaron Dudor, Front End Developer, adudor
+Pranav Agrawal, Back-End Developer, pranav11pro
+
