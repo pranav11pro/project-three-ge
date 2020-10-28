@@ -15,3 +15,4 @@ John Doe, Data Wrangler 1, johnsGithubUsername
 Aaron Dudor, Front End Developer, adudor
 Jackson Glisczinski, Data Wrangler, jglisczinski
 Jason Jenson, Test Engineer 1, JasonJenson
+Hao-Yu Shih, Test Engineer 2, hshih25
