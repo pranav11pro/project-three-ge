@@ -13,11 +13,7 @@ John Doe, Data Wrangler 1, johnsGithubUsername
 
 ## Signatures:
 Aaron Dudor, Front End Developer, adudor
-<<<<<<< HEAD
 Pranav Agrawal, Back-End Developer, pranav11pro
-
-=======
 Jackson Glisczinski, Data Wrangler, jglisczinski
 Jason Jenson, Test Engineer 1, JasonJenson
 Hao-Yu Shih, Test Engineer 2, hshih25
->>>>>>> 0b357a9f5d913ba6b3b5de39566eb65de4d65321
