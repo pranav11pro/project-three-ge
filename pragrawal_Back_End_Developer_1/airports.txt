@@ -1,0 +1,45 @@
+Hartsfield–Jackson Atlanta International Airport, 		ATL, 	Atlanta,			GA
+Los Angeles International Airport, 						LAX, 	Los Angeles,		CA
+O'Hare International Airport, 							ORD, 	Chicago, 			IL
+Dallas/Fort Worth International Airport,				DFW,	Dallas,				TX
+Denver International Airport,							DEN,	Denver,				CO
+John F. Kennedy International Airport,					JFK,	New York,			NY
+San Francisco International Airport,					SFO,	San Francisco,		CA
+Seattle–Tacoma International Airport,					SEA,	Seattle,			WA
+McCarran International Airport,							LAS,	Las Vegas,			NV
+Orlando International Airport,							MCO,	Orlando,			FL
+Newark Liberty International Airport,					EWR,	New York,			NJ
+Charlotte Douglas International Airport,				CLT,	Charlotte,			NC
+Phoenix Sky Harbor International Airport,				PHX,	Phoenix,			AZ
+George Bush Intercontinental Airport,					IAH,	Houston,			TX
+Miami International Airport,							IA,		Miami,				FL
+General Edward Lawrence Logan International Airport,	BOS,	Boston,				MA
+Minneapolis–Saint Paul International Airport,			MSP,	Minneapolis,		MN
+Fort Lauderdale–Hollywood International Airport,		FLL,	Fort Lauderdale,	FL
+Detroit Metropolitan Airport,							DTW,	Detroit,			MI
+Philadelphia International Airport,						PHL,	Philadelphia,		PA
+LaGuardia Airport,										LGA,	New York, 			NY
+Baltimore–Washington International Airport,				BWI,	Baltimore,			MD
+Salt Lake City International Airport,					SLC,	Salt Lake City,		UT
+San Diego International Airport,						SAN,	San Diego,			CA
+Washington Dulles International Airport,				IAD,	Washington D.C.,	VA
+Ronald Reagan Washington National Airport,				DCA,	Washington D.C.,	VA
+Chicago Midway International Airport,					MDW,	Chicago,			IL
+Tampa International Airport,							TPA,	Tampa,				FL
+Portland International Airport,							PDX,	Portland,			OR
+Daniel K. Inouye International Airport,					HNL,	Honolulu,			HI
+General Mitchell International Airport,					MKE,	Milwaukee,			WI
+Dane County Regional Airport,							MSN,	Madison, 			WI
+China Beijing Capital International Airport,			PEK,	Beijing,			China
+United Arab Emirates Dubai International Airport,		DXB,	Dubai,				United Arab Emirates
+Japan Tokyo Haneda Airport, 							HND, 	Tokyo,				Japan
+United Kingdom London Heathrow Airport,					LHR,	London,				United Kingdom
+China Shanghai Pudong International Airport,			PVG,	Pudong, 			China
+France Charles de Gaulle Airport,						CDG,	Paris,				France
+Netherlands Amsterdam Airport Schiphol,					AMS,	North Holland,		Netherlands
+South Korea Seoul Incheon International Airport,		ICN,	Incheon,			South Korea
+Germany Frankfurt Airport,								FRA,	Frankfurt, 			Germany
+India Indira Gandhi International Airport,				DEL,	Delhi,				India
+Singapore Singapore Changi Airport,						SIN,	Changi, 			Singapore
+Spain Madrid Barajas Airport,							MAD,	Madrid,				Spain
+Turkey Istanbul Airport,								IST,	Istanbul,			Turkey
