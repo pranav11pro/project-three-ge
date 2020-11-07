@@ -12,7 +12,7 @@ Newark Liberty International Airport,					EWR,	New York,			NJ
 Charlotte Douglas International Airport,				CLT,	Charlotte,			NC
 Phoenix Sky Harbor International Airport,				PHX,	Phoenix,			AZ
 George Bush Intercontinental Airport,					IAH,	Houston,			TX
-Miami International Airport,							IA,		Miami,				FL
+Miami International Airport,							MIA,	Miami,				FL
 General Edward Lawrence Logan International Airport,	BOS,	Boston,				MA
 Minneapolis–Saint Paul International Airport,			MSP,	Minneapolis,		MN
 Fort Lauderdale–Hollywood International Airport,		FLL,	Fort Lauderdale,	FL
